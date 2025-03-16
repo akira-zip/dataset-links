@@ -1,8 +1,4 @@
 # dataset-links
-Todos os links de dataset serão mostrados aqui, organizados por classe.
-
-## Links
-
 - [1](https://universe.roboflow.com/university-of-passau-germany)
 
 - [2](https://universe.roboflow.com/ilham-winar)
