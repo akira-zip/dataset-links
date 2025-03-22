@@ -14,3 +14,5 @@
 - [7](https://universe.roboflow.com/qingli-3uiej)
 
 - [8](https://universe.roboflow.com/roboflow-gw7yv/vehicles-openimages)
+
+- [9](https://universe.roboflow.com/cardetection-eppok/object-detection-qfubf)
